@@ -22,3 +22,10 @@ if we have auto generated password- just downloa dthe csv file, it will have inf
 and we can send login info email to that user when we are adding them
 now we can see the user which we created is under users
 ![image](https://user-images.githubusercontent.com/107784718/212027793-dc9373c6-490b-466a-955d-5274235817ed.png)
+
+in user group->
+![image](https://user-images.githubusercontent.com/107784718/212027979-6e520f21-ed1c-4335-88c3-b6db0d9f5a1e.png)
+click on the craeted group to see the users in that group
+![image](https://user-images.githubusercontent.com/107784718/212028087-26b0f00c-dfad-4b33-a135-1d6ee7a49ecb.png)
+we can find the policy that user is part of and we can add the additional policies too
+
