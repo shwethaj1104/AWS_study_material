@@ -20,3 +20,5 @@ There are 3 options for MFA devices-
 
 There are also 3 compatible apps you can setup with- install virtyual MFA applications- check for andriod or Apple devices apps- recommended to use Authy
 scan the code in phone and 2 codes will be genrated with time lapse of 15 seconds, so give them - assign MFA
+
+so from next time when ever you login to the account it will ask for MFA token.
