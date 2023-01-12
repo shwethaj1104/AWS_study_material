@@ -28,4 +28,7 @@ in user group->
 click on the craeted group to see the users in that group
 ![image](https://user-images.githubusercontent.com/107784718/212028087-26b0f00c-dfad-4b33-a135-1d6ee7a49ecb.png)
 we can find the policy that user is part of and we can add the additional policies too
+To login from newly created IAM user-
+open incognito and open aws console- give credentials of newly craeted IAM user and login
+![image](https://user-images.githubusercontent.com/107784718/212029620-4b55f89f-4783-4de2-ad0d-6371f9fbaedd.png)
 
