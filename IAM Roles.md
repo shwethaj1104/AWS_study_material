@@ -9,4 +9,4 @@ Roles- create Role- AWS service -  EC2
 IAMReadOnlyAccesss- next- Role details
 role name : abc --create role
 
-Role will be caeted and you can verify by searching on loist of roles
+Role will be caeted and you can verify by searching on list of roles(demoroleForTestEc2)
