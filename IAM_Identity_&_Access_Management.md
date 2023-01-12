@@ -15,3 +15,10 @@ create group->next tags->add any kind of tags for the info regd of that group-> 
 ![image](https://user-images.githubusercontent.com/107784718/212026879-8a844db5-49c9-480d-bb4a-6a20d36f0459.png)
 ![image](https://user-images.githubusercontent.com/107784718/212026910-13c52a7d-7e7f-4490-8cc0-e5ca12cc2a06.png)
 
+![image](https://user-images.githubusercontent.com/107784718/212027046-11739cbb-0ed6-43eb-925a-e222b40ddded.png)
+Create User
+![image](https://user-images.githubusercontent.com/107784718/212027128-67d8f7f5-3a09-42b0-a2e8-4493d7f8b6b1.png)
+if we have auto generated password- just downloa dthe csv file, it will have info about password
+and we can send login info email to that user when we are adding them
+now we can see the user which we created is under users
+![image](https://user-images.githubusercontent.com/107784718/212027793-dc9373c6-490b-466a-955d-5274235817ed.png)
