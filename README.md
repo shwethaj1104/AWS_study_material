@@ -1,4 +1,4 @@
-# AWS_study_material
+# AWS
 
 Created IAM group- added new user to IAM group with administratorAccess policy
 
