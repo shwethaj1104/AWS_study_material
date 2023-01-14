@@ -13,3 +13,12 @@ In Network & security- Security groups- you will be able to see all the security
 ![image](https://user-images.githubusercontent.com/107784718/212467101-153576c0-6042-458e-aa35-5173177a2186.png)
 
 since in the wizard we have http rule- w ewere able to access the app from the browser
+
+If you want to add or delete- seciroty inbounds- we can edit it too
+![image](https://user-images.githubusercontent.com/107784718/212467212-d50643b1-8380-42d0-a134-f757501c1fc1.png)
+
+Outbound traffic- by default to everywhere
+![image](https://user-images.githubusercontent.com/107784718/212467313-0b590b0d-2d59-4cfc-8cb1-b47dc1a4960c.png)
+
+
+We can attach as many securoty groups as we want to EC2 isntances.
