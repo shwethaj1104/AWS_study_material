@@ -45,3 +45,11 @@ Launch Instance
 in the list f instances now we can see the newly craeted instance
 ![image](https://user-images.githubusercontent.com/107784718/212466302-74e17831-f504-42b2-a459-5fe08eac9caf.png)
 
+We can find the all the details about our EC2 instance once we select the instance
+![image](https://user-images.githubusercontent.com/107784718/212466422-9ca0ee22-c81e-4097-9dfc-ae392cd3a6af.png)
+
+if we navigate to the public ip addresss we will be able to access the page/applcation
+
+we can stop/terminate our instance when evr we want
+![image](https://user-images.githubusercontent.com/107784718/212466575-176752d7-f91a-4ecc-99a5-0675c9b2c3a5.png)
+
