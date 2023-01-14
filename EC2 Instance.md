@@ -50,6 +50,6 @@ We can find the all the details about our EC2 instance once we select the instan
 
 if we navigate to the public ip addresss we will be able to access the page/applcation
 
-we can stop/terminate our instance when evr we want
+we can stop/terminate our instance when evr we want- but when ever we stop and start again- AWS will chnage it's public IP address- keep that in mind
 ![image](https://user-images.githubusercontent.com/107784718/212466575-176752d7-f91a-4ecc-99a5-0675c9b2c3a5.png)
 
