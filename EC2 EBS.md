@@ -28,3 +28,4 @@ click on attach volume
 Now if you check in your instance you will be having 2 instances attached
 ![image](https://user-images.githubusercontent.com/107784718/212531279-591e2c00-2a89-489c-8a8e-135f153df9db.png)
 
+if we terminate instance the root volume will be deleted and other volume which was attached wil be freed up so that we can use/attach it for other instances
