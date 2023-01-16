@@ -23,3 +23,4 @@ Matrics- we can get Number of invocations, Duration, eeror count etc here
 Logs- we can see log information here
 ![image](https://user-images.githubusercontent.com/107784718/212622611-1662cddf-1aff-400b-bb16-104271f3cba8.png)
 ______
+![image](https://user-images.githubusercontent.com/107784718/212626926-c4ff35f3-b20c-4cb9-b45f-e6451a0812d9.png)
