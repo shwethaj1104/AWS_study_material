@@ -21,6 +21,7 @@ ________________________
 AWS Snow Family
 
 Highly-secure, portable devices to collect and process data at the edge, and migrate data into and out of AWS
+___________
 Snowball Edge (for data transfers)
  • Physical data transport solution: move TBs or PBs of data in or out of AWS
 
@@ -31,3 +32,10 @@ AWS Snowcone
 • 8 TBs of usable storage
 • Use Snowcone where Snowball does not fit(space-constrained environment)
 • Must provide your own battery / cables • Can be sent back to AWS offline, or connect it to internet and use AWS DataSync to send data
+________
+AWS Snowmobile
+• Transfer exabytes of data (1 EB = 1,000 PB = 1,000,000 TBs)
+• Each Snowmobile has 100 PB of capacity (use multiple in parallel)
+• High security: temperature controlled, GPS, 24/7 video surveillance
+• Better than Snowball if you transfer more than 10 PB
+______________
