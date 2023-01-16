@@ -6,7 +6,7 @@ Why use a load balancer?
 • Provide SSL termination (HTTPS) for your websites
 • High availability across zones
 
-
+What’s an Auto Scaling Group?
 • The goal of an Auto Scaling Group (ASG) is to:
 • Scale out (add EC2 instances) to match an increased load
 • Scale in (remove EC2 instances) to match a decreased load
