@@ -13,3 +13,9 @@
         • Works with any language, any OS, any technology 
         
 • Scale containers up and down very quickly (seconds)
+______
+# ECS-Elastic Container Service
+
+• Launch Docker containers on AWS
+• You must provision & maintain the infrastructure (the EC2 instances)
+___________
