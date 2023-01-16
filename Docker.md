@@ -13,9 +13,22 @@
         • Works with any language, any OS, any technology 
         
 • Scale containers up and down very quickly (seconds)
+
+ways to luanch docker on AWS-
 ______
 # ECS-Elastic Container Service
 
 • Launch Docker containers on AWS
 • You must provision & maintain the infrastructure (the EC2 instances)
 ___________
+# Fargate 
+
+• Launch Docker containers on AWS
+• You do not provision the infrastructure (no EC2 instances to manage) – simpler!
+• Serverless offering (Serverless does not mean there are no servers... it means you just don’t manage / provision / see them)
+• AWS just runs containers for you based on the CPU / RAM you need
+___________
+# ECR - Elastic Container Registry 
+
+• Private Docker Registry on AWS
+• This is where you store your Docker images so they can be run by ECS or Fargate
