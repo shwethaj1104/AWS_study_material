@@ -16,7 +16,7 @@ serach for cloudformation service in AWS
 
 create stack-
 ![image](https://user-images.githubusercontent.com/107784718/212883842-ead53f34-8a3f-4fb6-a480-9652bc7cba6c.png)
-upload a file(which should contain what stacks you need to add- example- EC2, SSH security groups etc) which is used to create EC2 instance for example - Next
+upload a file(which should contain what stacks you need to add- example- EC2, SSH security groups etc) which containes code to create EC2 instance for example - Next
 stack name- Next
 Tags- Name- Next
 Review the cost and other details- Create Stack
