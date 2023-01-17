@@ -7,4 +7,6 @@ Infrastructure, for any resources (most of them are supported).
 • I want a load balancer (ELB) in front of these machines
 
 • Then CloudFormation creates those for you, in the right order, with the
-exact configuration that you specify
+exact configuration that you specify.
+
+No resources are manually created, which is excellent for control.
