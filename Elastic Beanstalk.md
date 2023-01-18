@@ -40,7 +40,7 @@ if w ecome back to elastic beanstalk we can see what and all are created
 once it is successfully created, click on link given to see the running application
 
 you can even go to EC2 instances and check for the instance craeted by beanstalk(go to tags to find cloudformation tag)
---file
+![image](https://user-images.githubusercontent.com/107784718/213121014-547d4b61-c568-4752-bc4a-688ac932990b.png)
 
 we can just upload and deploy new file to update application
 
