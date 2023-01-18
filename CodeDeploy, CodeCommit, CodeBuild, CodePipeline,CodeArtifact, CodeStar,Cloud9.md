@@ -32,6 +32,14 @@ ____________
 • Unified UI to easily manage software development activities in one place
 • “Quick way” to get started to correctly set-up CodeCommit, CodePipeline, CodeBuild, CodeDeploy, Elastic Beanstalk, EC2, etc...
 • Can edit the code ”in-the-cloud” using AWS Cloud9
+
+open CodeStar service- create project-select the application type(eample python flask-AWS Elastic Beanstalk)- Next
+![image](https://user-images.githubusercontent.com/107784718/213131078-a3f70a05-bc12-4dc4-8910-85c2353a0a0d.png)
+
+![image](https://user-images.githubusercontent.com/107784718/213131310-e163fe52-1410-4b45-9750-7679569aed18.png)
+
+project name-project repository:codeCommit-EC2 configuration:::instance type:t2 micro-select subnet-select key pair--next
+project will be created- with AWS IAM, Elastic Beanstalk, CodePipeline, CodeCommit,CodeBuild,CloudFormation and Amazon S3 storage.
 _________________
 # Cloud9
 AWS Cloud9 is a cloud IDE (Integrated Development Environment) for writing, running and debugging code
