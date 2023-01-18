@@ -24,7 +24,10 @@ ______________
 • CodeArtifact is a secure, scalable, and cost-effective artifact management for software development
 • Works with common dependency management tools such as Maven, Gradle, npm, yarn, twine, pip, and NuGet
 • Developers and CodeBuild can retrive it from CodeArtifact
-_______________
+
+We can setup Individually too, but we have CodeStar where we can setup all of them at once,
+![image](https://user-images.githubusercontent.com/107784718/213130750-5cfa86a0-73d6-47f3-bfa6-463c34f72371.png)
+____________
 # CodeStar
 • Unified UI to easily manage software development activities in one place
 • “Quick way” to get started to correctly set-up CodeCommit, CodePipeline, CodeBuild, CodeDeploy, Elastic Beanstalk, EC2, etc...
