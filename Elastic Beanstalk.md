@@ -29,6 +29,7 @@ open cloudformation service to check whta is happening
 ![image](https://user-images.githubusercontent.com/107784718/213115921-d3b2ca47-90f2-414a-89ba-3700e114cce6.png)
 we can see our demp app is creating:
 ![image](https://user-images.githubusercontent.com/107784718/213116151-7f6c18fc-2803-4b76-a0d7-9a41602666c5.png)
+![image](https://user-images.githubusercontent.com/107784718/213116946-730dd19e-a17d-4774-9632-502adef4de4b.png)
 
-if we view on design we can see template diagram: it has elastic load balancer,coud formation, security group,auto scaling, ec2 instance,cloud watch.
+if we view on designer we can see template diagram: it has elastic load balancer,coud formation, security group,auto scaling, ec2 instance,cloud watch.
 ![image](https://user-images.githubusercontent.com/107784718/213116445-7d03ba63-a78d-4a8f-8228-1fa94bfab891.png)
