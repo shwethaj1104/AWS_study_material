@@ -33,3 +33,17 @@ we can see our demp app is creating:
 
 if we view on designer we can see template diagram: it has elastic load balancer,coud formation, security group,auto scaling, ec2 instance,cloud watch.
 ![image](https://user-images.githubusercontent.com/107784718/213116445-7d03ba63-a78d-4a8f-8228-1fa94bfab891.png)
+
+if w ecome back to elastic beanstalk we can see what and all are created 
+![image](https://user-images.githubusercontent.com/107784718/213117111-797a97fd-4785-4f66-ace8-52b1d45874d5.png)
+
+once it is successfully created, click on link given to see the running application
+
+you can even go to EC2 instances and check for the instance craeted by beanstalk(go to tags to find cloudformation tag)
+--file
+
+we can just upload and deploy new file to update application
+
+difference between cloudformationa dn elastic beanstalk
+coudformation is infrastructure focused where as EBS is application focused- we write what services to include via code for cloudformation where as we deploy application code in EBS
+
