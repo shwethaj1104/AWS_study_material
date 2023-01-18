@@ -15,3 +15,4 @@
 Elastic Beanstalk Managed service - Instance configuration / OS is handled by Beanstalk, Deployment strategy is configurable but performed by Elastic Beanstalk, capacity, load balancing, auto scaling, app health monitoring and responsiveness
 
 Developer responsibility - just the applicatio code!
+___
