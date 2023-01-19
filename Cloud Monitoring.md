@@ -1,1 +1,31 @@
-# Cloud Monitoring
+# CloudWatch matrix
+
+• CloudWatch provides metrics for every services in AWS
+• Metric is a variable to monitor (CPUUtilization, NetworkIn...)
+
+# Important Metrics
+
+• EC2 instances: CPU Utilization, Status Checks, Network (not RAM)
+• Default metrics every 5 minutes
+• Option for Detailed Monitoring ($$$): metrics every 1 minute
+• EBS volumes: Disk Read/Writes
+• S3 buckets: BucketSizeBytes, NumberOfObjects, AllRequests
+• Billing:Total Estimated Charge (only in us-east-1)
+• Service Limits: how much you’ve been using a service API
+• Custom metrics: push your own metrics
+
+# Amazon CloudWatch Alarms
+• Alarms are used to trigger notifications for any metric
+• Alarms actions...
+• Auto Scaling: increase or decrease EC2 instances “desired” count
+• EC2 Actions: stop, terminate, reboot or recover an EC2 instance
+• SNS notifications: send a notification into an SNS topic
+
+# Amazon CloudWatch Logs
+• CloudWatch Logs can collect log from:
+• Elastic Beanstalk: collection of logs from application
+• ECS: collection from containers
+• AWS Lambda: collection from function logs 
+• CloudTrail based on filter 
+• CloudWatch log agents: on EC2 machines or on-premises servers
+• Route 53- log DNS queries
