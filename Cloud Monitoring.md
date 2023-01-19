@@ -70,6 +70,9 @@ Billing alarm is available only for us-east-1- create alarm-
 • CloudWatch log agents: on EC2 machines or on-premises servers
 • Route 53- log DNS queries
 • By default, no logs from your EC2 instance will go to CloudWatch- we have to set it up
+_______________________________
+what ever our application will be logging will be available here
+![image](https://user-images.githubusercontent.com/107784718/213381413-682f1612-b254-46ed-a45b-9721c3f10509.png)
 
 # Amazon EventBridge
 • Schedule: Cron jobs (scheduled scripts)
