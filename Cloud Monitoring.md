@@ -44,3 +44,12 @@
 • SDK
 • CLI
 • AWS Services
+
+# AWS X-Ray advantages
+• Troubleshooting performance (bottlenecks) • Understand dependencies in a microservice architecture • Pinpoint service issues • Review request behavior • Find errors and exceptions • Are we meeting time SLA? • Where I am throttled? • Identify users that are impacted
+
+# Amazon CodeGuru
+• An ML-powered service for automated code reviews and application performance recomendation
+
+# AWS Personal Health Dashboard
+• AWS Personal Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you.
