@@ -29,3 +29,18 @@
 • CloudTrail based on filter 
 • CloudWatch log agents: on EC2 machines or on-premises servers
 • Route 53- log DNS queries
+• By default, no logs from your EC2 instance will go to CloudWatch- we have to set it up
+
+# Amazon EventBridge
+• Schedule: Cron jobs (scheduled scripts)
+• Event Pattern: Event rules to react to a service doing something
+• Trigger Lambda functions, send SQS/SNS messages...
+
+# AWS CloudTrail
+• Provides governance, compliance and audit for your AWS Account
+• CloudTrail is enabled by default!
+• Get an history of events / API calls made within your AWS Account by:
+• Console
+• SDK
+• CLI
+• AWS Services
