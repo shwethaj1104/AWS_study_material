@@ -84,8 +84,6 @@ select amazon event Bridge service-create rule-name-schedule- continue- give sch
 ![image](https://user-images.githubusercontent.com/107784718/213384069-e1a18ad9-6da0-453b-bb0c-467121745966.png)
 ![image](https://user-images.githubusercontent.com/107784718/213384259-6f446835-88ef-46c7-823e-1ddda049aed3.png)
 
-
-
 # AWS CloudTrail
 • Provides governance, compliance and audit for your AWS Account
 • CloudTrail is enabled by default!
@@ -94,6 +92,9 @@ select amazon event Bridge service-create rule-name-schedule- continue- give sch
 • SDK
 • CLI
 • AWS Services
+______
+select cloudTrial service-Event history- what ever actions ahs been performed will be recorded in cloudTrial
+![image](https://user-images.githubusercontent.com/107784718/213385193-439fd716-097e-427d-bcfd-4da159b4fafd.png)
 
 # AWS X-Ray advantages
 • Troubleshooting performance (bottlenecks) • Understand dependencies in a microservice architecture • Pinpoint service issues • Review request behavior • Find errors and exceptions • Are we meeting time SLA? • Where I am throttled? • Identify users that are impacted
