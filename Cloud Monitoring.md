@@ -53,3 +53,4 @@
 
 # AWS Personal Health Dashboard
 • AWS Personal Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you.
+• While the Service Health Dashboard displays the general status of AWS services, Personal Health Dashboard gives you a personalized view into the performance and  availability of the AWS services underlying your AWS resources.
