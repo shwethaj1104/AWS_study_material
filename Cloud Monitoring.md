@@ -38,7 +38,10 @@ alarm action- recover- to recover the instance if value is gretaer then threshol
 ![image](https://user-images.githubusercontent.com/107784718/213378932-9526c12b-584d-40f8-975e-2a2d671efd34.png)
 ![image](https://user-images.githubusercontent.com/107784718/213378969-97a92e95-0732-4867-8af2-69f933d006fb.png)
 
-
+Billing alarm is available only for us-east-1- create alarm-
+![image](https://user-images.githubusercontent.com/107784718/213379588-92a87c7b-d0c2-4c28-9491-d9638e8a14c4.png)
+![image](https://user-images.githubusercontent.com/107784718/213379720-bfb89730-a971-4896-957c-792fe960b9f6.png)
+![image](https://user-images.githubusercontent.com/107784718/213379728-4e0cd65f-4c3f-487d-b35e-87b37f6d9ecd.png)
 
 # Important Metrics
 
