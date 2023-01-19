@@ -102,6 +102,9 @@ select cloudTrial service-Event history- what ever actions ahs been performed wi
 # Amazon CodeGuru
 • An ML-powered service for automated code reviews and application performance recomendation
 
+# AWS Health Dashboard
+# AWS Service Health Dashboard
+ the Service Health Dashboard displays the general status of all AWS services
 # AWS Personal Health Dashboard
 • AWS Personal Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you.
-• While the Service Health Dashboard displays the general status of AWS services, Personal Health Dashboard gives you a personalized view into the performance and  availability of the AWS services underlying your AWS resources.
+• Personal Health Dashboard gives you a personalized view into the performance and availability of the AWS services underlying your AWS resources.
