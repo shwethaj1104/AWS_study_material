@@ -25,3 +25,4 @@ ___
 • AWS: must use a Virtual Private Gateway (VGW)
 ![image](https://user-images.githubusercontent.com/107784718/213642696-f5736c42-cfff-44bb-a0fd-9b59945c5148.png)
 __
+![image](https://user-images.githubusercontent.com/107784718/213643242-e92bbc90-1220-4a94-82d6-5ec04db6425b.png)
