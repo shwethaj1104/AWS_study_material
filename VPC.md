@@ -26,3 +26,4 @@ ___
 
 • On-premises: must use a Customer Gateway (CGW)
 • AWS: must use a Virtual Private Gateway (VGW)
+__
