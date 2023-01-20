@@ -21,9 +21,7 @@ ___________________________
 • This gives you enhanced security and lower latency to access AWS services
 ___
 # Site-to-Site VPN
-
-![image](https://user-images.githubusercontent.com/107784718/213642696-f5736c42-cfff-44bb-a0fd-9b59945c5148.png)
-
 • On-premises: must use a Customer Gateway (CGW)
 • AWS: must use a Virtual Private Gateway (VGW)
+![image](https://user-images.githubusercontent.com/107784718/213642696-f5736c42-cfff-44bb-a0fd-9b59945c5148.png)
 __
