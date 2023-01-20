@@ -19,3 +19,5 @@ ___________________________
 
 • Endpoints allow you to connect to AWSServices using a private network instead of the public www network
 • This gives you enhanced security and lower latency to access AWS services
+___
+![image](https://user-images.githubusercontent.com/107784718/213642696-f5736c42-cfff-44bb-a0fd-9b59945c5148.png)
