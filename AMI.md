@@ -4,7 +4,6 @@
 • Faster boot / configuration time because all your software is pre-packaged
 • AMI are built for a specific region (and can be copied across regions)
 
-
 create AMI-
 select instance- actions- image and tempaltes- create image- provide description - click create image
 
