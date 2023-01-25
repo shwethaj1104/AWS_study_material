@@ -7,7 +7,7 @@ Then open cli- type- aws --version to check which version is installed
 
 ![image](https://user-images.githubusercontent.com/107784718/212048159-10a2db43-0a61-4941-945d-01956f1634a5.png)
 
-to upgrade aws cli versiob- just redownload the link and install it
+To upgrade aws cli versiob- just redownload the link and install it
 ______________________________________________________________________________________________________________________________________________________________
 your account name(top right section) -security credentials- create access key- download file or make note of secret key and access key
 
