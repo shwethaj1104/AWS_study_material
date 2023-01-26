@@ -1,4 +1,3 @@
-
 Open AWS CLI install on windows- https://docs.aws.amazon.com/cli/latest/userguide/getting-started-version.html
 
 Download windows 64 bit AWS CLI-Install
