@@ -46,7 +46,7 @@ ________________________
 • 8 TBs of usable storage
 • Use Snowcone where Snowball does not fit(space-constrained environment)
 • Must provide your own battery / cables • Can be sent back to AWS offline, or connect it to internet and use AWS DataSync to send data
-________
+________________________
 # AWS Snowmobile
 • Transfer exabytes of data (1 EB = 1,000 PB = 1,000,000 TBs)
 • Each Snowmobile has 100 PB of capacity (use multiple in parallel)
