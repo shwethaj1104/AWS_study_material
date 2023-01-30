@@ -38,7 +38,7 @@ Highly-secure, portable devices to collect and process data at the edge, and mig
 ________________________
 # Snowball Edge (for data transfers)
  • Physical data transport solution: move TBs or PBs of data in or out of AWS
-________
+________________________
 # AWS Snowcone 
 • Small, portable computing, anywhere. secure, withstands harsh environments
 • Light (4.5 pounds, 2.1 kg) 
