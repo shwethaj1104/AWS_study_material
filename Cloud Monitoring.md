@@ -20,7 +20,7 @@ Alarms-all alarms-create alarm- select metrics-select any service(example EC2)-s
 ![image](https://user-images.githubusercontent.com/107784718/213377067-6f0f0a70-4f7c-4f2a-abdb-3eee17624810.png)
 
 Metric- set period for which you have to trigger alarm
-conditions-define threshold value- Next
+Conditions-define threshold value- Next
 ![image](https://user-images.githubusercontent.com/107784718/213377476-9ed56365-943d-47f3-aaa6-5dbad74d7cb0.png)
 
 ![image](https://user-images.githubusercontent.com/107784718/213377537-9d01257e-7892-441d-873a-5ecba3c03bdf.png)
@@ -30,7 +30,7 @@ Name- Next
 preview the data an dlcik on craete alarm
 
 We can create alarm directly from EC2 instance-
-go to your instance- scroll right on your selected instance- alarm status- click on + icon- now you can setup your alarm for EC2 instance
+Go to your instance- scroll right on your selected instance- alarm status- click on + icon- now you can setup your alarm for EC2 instance
 ![image](https://user-images.githubusercontent.com/107784718/213378619-46f1af42-0a56-41d8-9948-4a43d27a32a3.png)
 select the craeted alarm- update
 alarm action- recover- to recover the instance if value is gretaer then threshold, we can reboot, recover, stop or terminate the instances
