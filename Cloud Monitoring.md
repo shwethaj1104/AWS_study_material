@@ -27,7 +27,7 @@ Conditions-define threshold value- Next
 Set up notifications for your emial- next
 Name- Next
 ![image](https://user-images.githubusercontent.com/107784718/213378037-38e7f70a-ac55-4897-8af3-95ce4e9f9a0d.png)
-preview the data an dlcik on craete alarm
+Preview the data an dlcik on craete alarm
 
 We can create alarm directly from EC2 instance-
 Go to your instance- scroll right on your selected instance- alarm status- click on + icon- now you can setup your alarm for EC2 instance
