@@ -32,7 +32,7 @@ Preview the data an dlcik on craete alarm
 We can create alarm directly from EC2 instance-
 Go to your instance- scroll right on your selected instance- alarm status- click on + icon- now you can setup your alarm for EC2 instance
 ![image](https://user-images.githubusercontent.com/107784718/213378619-46f1af42-0a56-41d8-9948-4a43d27a32a3.png)
-select the craeted alarm- update
+Select the created alarm- update
 alarm action- recover- to recover the instance if value is gretaer then threshold, we can reboot, recover, stop or terminate the instances
 ![image](https://user-images.githubusercontent.com/107784718/213378892-bae7ee08-7711-4666-b7bf-6563ab6f35fa.png)
 ![image](https://user-images.githubusercontent.com/107784718/213378932-9526c12b-584d-40f8-975e-2a2d671efd34.png)
