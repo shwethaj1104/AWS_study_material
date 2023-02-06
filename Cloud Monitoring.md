@@ -10,7 +10,7 @@ Go to all metrics and select any service to view health of respective service-
 ![image](https://user-images.githubusercontent.com/107784718/213376394-cfc1e998-dba5-42aa-8d46-cb53306dbddb.png)
 
 To create an alarm:
-Alarms-all alarms-create alarm- select metrics-select any service(example EC2)-select pre-instance metrics-let's do it for CPU Utilization- 
+Alarms -> all alarms-create alarm- select metrics-select any service(example EC2)-select pre-instance metrics-let's do it for CPU Utilization- 
 ![image](https://user-images.githubusercontent.com/107784718/213376691-c7405350-9868-4bef-bef0-2754e221396d.png)
 
 ![image](https://user-images.githubusercontent.com/107784718/213376764-af3992c0-978b-42a5-bc3f-641074af1876.png)
