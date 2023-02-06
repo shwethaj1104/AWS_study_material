@@ -111,7 +111,7 @@ Select cloudTrial service-Event history- what ever actions ahs been performed wi
 __________
 Bell icon- event log-
 ![image](https://user-images.githubusercontent.com/107784718/213385739-ba81c250-1660-4573-9989-c6a00c856466.png)
-we can see the service health, personal account health etc
+We can see the service health, personal account health etc
 ![image](https://user-images.githubusercontent.com/107784718/213386344-44c85bad-06ee-4f73-a724-3f1ed74ee8d4.png)
 
 
