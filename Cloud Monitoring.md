@@ -25,7 +25,7 @@ Conditions-define threshold value- Next
 ![image](https://user-images.githubusercontent.com/107784718/213377537-9d01257e-7892-441d-873a-5ecba3c03bdf.png)
 
 Set up notifications for your emial -> Next
-Name- Next
+Name -> Next
 ![image](https://user-images.githubusercontent.com/107784718/213378037-38e7f70a-ac55-4897-8af3-95ce4e9f9a0d.png)
 Preview the data an dlcik on craete alarm
 
