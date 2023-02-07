@@ -19,7 +19,7 @@ Alarms -> All alarms -> Create alarm -> Select metrics -> Select any service(exa
 ![image](https://user-images.githubusercontent.com/107784718/213376924-00727382-0d1f-46c5-a126-30cc12f6f7b6.png)
 ![image](https://user-images.githubusercontent.com/107784718/213377067-6f0f0a70-4f7c-4f2a-abdb-3eee17624810.png)
 
-Metric- set period for which you have to trigger alarm
+Metric-> Set period for which you have to trigger alarm
 Conditions-define threshold value- Next
 ![image](https://user-images.githubusercontent.com/107784718/213377476-9ed56365-943d-47f3-aaa6-5dbad74d7cb0.png)
 
