@@ -3,7 +3,7 @@
 • CloudWatch provides metrics for every service in AWS
 • Metric is a variable to monitor (CPUUtilization, NetworkIn...etc)
 
-Go to cloudwatch service-
+Go to cloudwatch service ->
 ![image](https://user-images.githubusercontent.com/107784718/213375955-cc46424f-7aa2-437f-be76-c1ffacf2b984.png)
 
 Go to all metrics and select any service to view health of respective service-
