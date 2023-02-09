@@ -32,7 +32,14 @@ We can create alarm directly from EC2 instance ->
 Go to your instance -> Scroll right on your selected instance -> Alarm status -> Click on + icon -> Now you can setup your alarm for EC2 instance
 ![image](https://user-images.githubusercontent.com/107784718/213378619-46f1af42-0a56-41d8-9948-4a43d27a32a3.png)
 Select the created alarm -> Update
-Alarm action- recover- to recover the instance if value is gretaer then threshold, we can reboot, recover, stop or terminate the instances
+
+
+
+
+
+
+
+Alarm action -> recover- to recover the instance if value is gretaer then threshold, we can reboot, recover, stop or terminate the instances
 ![image](https://user-images.githubusercontent.com/107784718/213378892-bae7ee08-7711-4666-b7bf-6563ab6f35fa.png)
 ![image](https://user-images.githubusercontent.com/107784718/213378932-9526c12b-584d-40f8-975e-2a2d671efd34.png)
 ![image](https://user-images.githubusercontent.com/107784718/213378969-97a92e95-0732-4867-8af2-69f933d006fb.png)
