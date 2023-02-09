@@ -6,7 +6,7 @@
 Go to cloudwatch service ->
 ![image](https://user-images.githubusercontent.com/107784718/213375955-cc46424f-7aa2-437f-be76-c1ffacf2b984.png)
 
-Go to all metrics and select any service to view health of respective service-
+Go to all metrics and select any service to view health of respective service ->
 ![image](https://user-images.githubusercontent.com/107784718/213376394-cfc1e998-dba5-42aa-8d46-cb53306dbddb.png)
 
 To create an alarm:
