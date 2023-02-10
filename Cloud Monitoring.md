@@ -35,11 +35,7 @@ Select the created alarm -> Update
 
 
 
-
-
-
-
-Alarm action -> Recover -> to recover the instance if value is gretaer then threshold, we can reboot, recover, stop or terminate the instances
+Alarm action -> Recover -> To recover the instance if value is gretaer then threshold, we can reboot, recover, stop or terminate the instances
 ![image](https://user-images.githubusercontent.com/107784718/213378892-bae7ee08-7711-4666-b7bf-6563ab6f35fa.png)
 ![image](https://user-images.githubusercontent.com/107784718/213378932-9526c12b-584d-40f8-975e-2a2d671efd34.png)
 ![image](https://user-images.githubusercontent.com/107784718/213378969-97a92e95-0732-4867-8af2-69f933d006fb.png)
