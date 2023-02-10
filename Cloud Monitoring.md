@@ -33,14 +33,12 @@ Go to your instance -> Scroll right on your selected instance -> Alarm status ->
 ![image](https://user-images.githubusercontent.com/107784718/213378619-46f1af42-0a56-41d8-9948-4a43d27a32a3.png)
 Select the created alarm -> Update
 
-
-
 Alarm action -> Recover -> To recover the instance if value is gretaer then threshold, we can reboot, recover, stop or terminate the instances
 ![image](https://user-images.githubusercontent.com/107784718/213378892-bae7ee08-7711-4666-b7bf-6563ab6f35fa.png)
 ![image](https://user-images.githubusercontent.com/107784718/213378932-9526c12b-584d-40f8-975e-2a2d671efd34.png)
 ![image](https://user-images.githubusercontent.com/107784718/213378969-97a92e95-0732-4867-8af2-69f933d006fb.png)
 
-Billing alarm is available only for us-east-1 -> create alarm-
+Billing alarm is available only for us-east-1 -> Create alarm ->
 ![image](https://user-images.githubusercontent.com/107784718/213379588-92a87c7b-d0c2-4c28-9491-d9638e8a14c4.png)
 ![image](https://user-images.githubusercontent.com/107784718/213379720-bfb89730-a971-4896-957c-792fe960b9f6.png)
 ![image](https://user-images.githubusercontent.com/107784718/213379728-4e0cd65f-4c3f-487d-b35e-87b37f6d9ecd.png)
@@ -81,6 +79,9 @@ What ever our application will be logging will be available here
 • Event Pattern: Event rules to react to a service doing something, send notifications etc
 • Trigger/invoke Lambda functions, send SQS/SNS messages...
 ___________________________
+
+
+
 Select amazon event Bridge service-create rule-name-schedule- continue- give schedule pattern-next- select target(invoking lambda function/notig=fication for login on console/ notification on EC2 instance state chnage etc)
 ![image](https://user-images.githubusercontent.com/107784718/213383988-1d571f77-a6e2-4f21-b9e0-07604cd3c8a5.png)
 ![image](https://user-images.githubusercontent.com/107784718/213384069-e1a18ad9-6da0-453b-bb0c-467121745966.png)
