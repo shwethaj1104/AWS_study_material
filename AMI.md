@@ -6,9 +6,10 @@
 • Faster boot / configuration time because all your software is pre-packaged
 
 • AMI are built for a specific region (and can be copied across regions)
-
+__________________________________________________
 Create AMI ->
-select instance- actions- image and tempaltes- create image- provide description - click create image
+
+Select instance -> actions- image and tempaltes- create image- provide description - click create image
 ![image](https://user-images.githubusercontent.com/107784718/212532418-cf877a31-50af-4aff-936c-430aa89f2ba8.png)
 
 Go to images- AMIs - you can see your AMI there
