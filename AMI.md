@@ -14,7 +14,7 @@ Select instance -> Actions -> Image and tempaltes -> Create image -> Provide des
 
 Go to images -> AMIs -> You can see your AMI there
 
-To launch instances using AMI
+To launch instances using AMI ->
 instance- luanch instance- go to my AMI's tab- select your AMI from dropdown
 ![image](https://user-images.githubusercontent.com/107784718/212532475-56b89f3d-1ef4-4b64-a278-8305cfd0d8ef.png)
 
