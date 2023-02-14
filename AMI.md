@@ -18,4 +18,4 @@ To launch instances using AMI ->
 Instance -> Launch instance -> Go to my AMI's tab -> Select your AMI from dropdown
 ![image](https://user-images.githubusercontent.com/107784718/212532475-56b89f3d-1ef4-4b64-a278-8305cfd0d8ef.png)
 
-While writing user data -> We just have to give what file to create etc -> since all the pre instalations have been done while creating AMI- basically we are reusing same AMI for faster boot time
+While writing user data -> We just have to give what file to create etc -> Since all the pre instalations have been done while creating AMI- basically we are reusing same AMI for faster boot time
