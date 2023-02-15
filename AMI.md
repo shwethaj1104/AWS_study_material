@@ -12,7 +12,7 @@ Create AMI ->
 Select instance -> Actions -> Image and tempaltes -> Create image -> Provide description -> Click create image
 ![image](https://user-images.githubusercontent.com/107784718/212532418-cf877a31-50af-4aff-936c-430aa89f2ba8.png)
 
-Go to images -> AMIs -> You can see your AMI there
+Go to images -> AMIs -> You can see your AMI there.
 ____________________________________________________
 To launch instances using AMI ->
 Instance -> Launch instance -> Go to my AMI's tab -> Select your AMI from dropdown
