@@ -8,7 +8,7 @@ Then open CLI -> Type -> "aws --version" to check which version is installed
 
 To upgrade AWS CLI version -> Just redownload the link and install it
 ______________________________________________________________________________________________________________________________________________________________
-Your account name(top right section) - security credentials- create access key- download file or make note of secret key and access key
+Your account name(top right section) -> security credentials- create access key- download file or make note of secret key and access key
 
 Now open command promt from local computer- "aws configure"- provide access key- provide secret key- provide region- enter for default output-- now it's all setup
 
