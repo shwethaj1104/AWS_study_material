@@ -10,7 +10,7 @@ To upgrade AWS CLI version -> Just redownload the link and install it
 ______________________________________________________________________________________________________________________________________________________________
 Your account name(top right section) -> Security credentials -> Create access key -> Download file or make note of secret key and access key.
 
-Now open command promt from local computer -> "aws configure" -> provide access key- provide secret key- provide region- enter for default output-- now it's all setup
+Now open command promt from local computer -> "aws configure" -> Provide access key- provide secret key- provide region- enter for default output-- now it's all setup
 
 To check type- "aws iam list-users"-> you will see all the users in your iam account.
 
