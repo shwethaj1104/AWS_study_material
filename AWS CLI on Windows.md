@@ -12,6 +12,6 @@ Your account name(top right section) -> Security credentials -> Create access ke
 
 Now open command promt from local computer -> "aws configure" -> Provide access key -> Provide secret key -> Provide region -> Enter for "default output--" now it's all setup.
 
-To check type -> "aws iam list-users"-> You will see all the users in your iam account.
+To check type -> "aws iam list-users"-> You will see all the users in your IAM account.
 
 To connect from cmd to ec2 instance:ssh -i ./tour-guider-keyPair.pem ec2-user@54.211.124.178
