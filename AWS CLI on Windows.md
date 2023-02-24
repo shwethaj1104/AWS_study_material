@@ -14,4 +14,4 @@ Now open command promt from local computer -> "aws configure" -> Provide access 
 
 To check type -> "aws iam list-users"-> You will see all the users in your IAM account.
 
-To connect from cmd to ec2 instance:ssh -i ./tour-guider-keyPair.pem ec2-user@54.211.124.178
+To connect from cmd to ec2 instance-ssh -i ./tour-guider-keyPair.pem ec2-user@54.211.124.178
