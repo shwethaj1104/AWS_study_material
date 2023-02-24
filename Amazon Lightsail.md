@@ -5,6 +5,7 @@
 • Simpler alternative to using EC2, RDS, ELB, EBS, Route 53...
 
 • Great for people with little cloud experience!
+
 • Can setup notifications and monitoring of your Lightsail resources
 • Use cases:
 • Simple web applications (has templates for LAMP, Nginx, MEAN, Node.js...)
