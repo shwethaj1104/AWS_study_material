@@ -3,6 +3,7 @@
 • Low & predictable pricing
 
 • Simpler alternative to using EC2, RDS, ELB, EBS, Route 53...
+
 • Great for people with little cloud experience!
 • Can setup notifications and monitoring of your Lightsail resources
 • Use cases:
