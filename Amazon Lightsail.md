@@ -14,6 +14,7 @@
 • Websites (templates for WordPress, Magento, Plesk, Joomla)
 
 • Dev / Test environment
+
 • Has high availability but no auto-scaling, limited AWS integrations
 _______________________________
 Open lightsail service
