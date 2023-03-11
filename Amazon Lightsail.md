@@ -9,6 +9,7 @@
 • Can setup notifications and monitoring of your Lightsail resources
 
 # Use cases:
+
 • Simple web applications (has templates for LAMP, Nginx, MEAN, Node.js...)
 
 • Websites (templates for WordPress, Magento, Plesk, Joomla)
