@@ -10,7 +10,7 @@
 
 # Use cases:
 
-• Simple web applications (has templates for LAMP, Nginx, MEAN, Node.js...)
+• Simple web applications (has templates for LAMP, Nginx, MEAN, Node.js etc)
 
 • Websites (templates for WordPress, Magento, Plesk, Joomla)
 
