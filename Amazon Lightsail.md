@@ -2,7 +2,7 @@
 
 • Low & predictable pricing
 
-• Simpler alternative to using EC2, RDS, ELB, EBS, Route 53...
+• Simpler alternative to using EC2, RDS, ELB, EBS, Route 53 etc
 
 • Great for people with little cloud experience!
 
