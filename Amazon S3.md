@@ -18,7 +18,7 @@
 
 • Static website
 
-# Amazon S3 - Buckets
+# Amazon S3 - Buckets :
 
 • Amazon S3 allows people to store objects (files) in “buckets” (directories)
 • Buckets must have a globally unique name (across all regions all accounts)
