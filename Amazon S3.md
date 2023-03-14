@@ -33,6 +33,7 @@
 • No uppercase, No underscore
 
 • 3-63 characters long
+
 • Not an IP
 • Must start with lowercase letter or number
 • Must NOT start with the prefix xn--
