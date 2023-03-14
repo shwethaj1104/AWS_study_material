@@ -29,6 +29,7 @@
 • S3 looks like a global service but buckets are created in a region
 
 • Naming convention
+
 • No uppercase, No underscore
 • 3-63 characters long
 • Not an IP
