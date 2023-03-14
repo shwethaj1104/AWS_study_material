@@ -31,6 +31,7 @@
 • Naming convention
 
 • No uppercase, No underscore
+
 • 3-63 characters long
 • Not an IP
 • Must start with lowercase letter or number
