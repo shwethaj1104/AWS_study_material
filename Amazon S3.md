@@ -25,6 +25,7 @@
 • Buckets must have a globally unique name (across all regions all accounts)
 
 • Buckets are defined at the region level
+
 • S3 looks like a global service but buckets are created in a region
 • Naming convention
 • No uppercase, No underscore
