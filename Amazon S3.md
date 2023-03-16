@@ -37,6 +37,7 @@
 • Not an IP
 
 • Must start with lowercase letter or number.
+
 • Must NOT start with the prefix xn--
 • Must NOT end with the suffix -s3alias
 ________________________
