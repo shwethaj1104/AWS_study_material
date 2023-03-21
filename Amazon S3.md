@@ -44,7 +44,7 @@
 ________________________
 # AWS Snow Family
 
-Highly-secure, portable devices to collect and process data at the edge, and migrate data into and out of AWS.
+ • Highly-secure, portable devices to collect and process data at the edge, and migrate data into and out of AWS.
 ________________________
 # Snowball Edge (for data transfers)
  • Physical data transport solution: move TBs or PBs of data in or out of AWS
