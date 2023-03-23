@@ -40,7 +40,7 @@
 
 • Must NOT start with the prefix xn--
 
-• Must NOT end with the suffix -s3alias
+• Must NOT end with the suffix -s3 alias
 ________________________
 # AWS Snow Family
 
