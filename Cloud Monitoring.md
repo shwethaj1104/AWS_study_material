@@ -1,6 +1,7 @@
 # CloudWatch matrix
 
 • CloudWatch provides metrics for every service in AWS
+
 • Metric is a variable to monitor (CPUUtilization, NetworkIn...etc)
 
 Go to cloudwatch service ->
