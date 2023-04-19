@@ -30,7 +30,7 @@ Name -> Next
 Preview the data and click on create alarm.
 
 We can create alarm directly from EC2 instance ->
-Go to your instance -> Scroll right on your selected instance -> Alarm status -> Click on + icon -> Now you can setup your alarm for EC2 instance
+Go to your instance -> Scroll right on your selected instance -> Alarm status -> Click on + icon -> Now you can setup your alarm for EC2 instance.
 ![image](https://user-images.githubusercontent.com/107784718/213378619-46f1af42-0a56-41d8-9948-4a43d27a32a3.png)
 Select the created alarm -> Update
 
