@@ -60,6 +60,7 @@ Billing alarm is available only for us-east-1 -> Create alarm ->
 • Billing:Total Estimated Charge (only in us-east-1)
 
 • Service Limits: how much you’ve been using a service API
+
 • Custom metrics: push your own metrics
 
 # Amazon CloudWatch Alarms
