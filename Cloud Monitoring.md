@@ -64,6 +64,7 @@ Billing alarm is available only for us-east-1 -> Create alarm ->
 • Custom metrics: push your own metrics
 
 # Amazon CloudWatch Alarms
+
 • Alarms are used to trigger notifications for any metric
 • Alarms actions...
 • Auto Scaling: increase or decrease EC2 instances “desired” count
