@@ -81,6 +81,7 @@ Billing alarm is available only for us-east-1 -> Create alarm ->
 • Elastic Beanstalk: collection of logs from application
 
 • ECS: collection from containers
+
 • AWS Lambda: collection from function logs 
 • CloudTrail based on filter 
 • CloudWatch log agents: on EC2 machines or on-premises servers
