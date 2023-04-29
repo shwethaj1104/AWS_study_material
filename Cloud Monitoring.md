@@ -83,6 +83,7 @@ Billing alarm is available only for us-east-1 -> Create alarm ->
 • ECS: collection from containers
 
 • AWS Lambda: collection from function logs 
+
 • CloudTrail based on filter 
 • CloudWatch log agents: on EC2 machines or on-premises servers
 • Route 53- log DNS queries
