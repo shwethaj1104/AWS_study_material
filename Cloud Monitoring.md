@@ -47,7 +47,7 @@ Billing alarm is available only for us-east-1 -> Create alarm ->
 
 # Important Metrics
 
-• EC2 instances: CPU Utilization, Status Checks, Network (not RAM)
+• EC2 instances : CPU Utilization, Status Checks, Network (not RAM)
 
 • Default metrics every 5 minutes
 
