@@ -73,10 +73,10 @@ Billing alarm is available only for us-east-1 -> Create alarm ->
 
 • EC2 Actions : stop, terminate, reboot or recover an EC2 instance
 
-• SNS notifications: send a notification into an SNS topic
+• SNS notifications : send a notification into an SNS topic
 
 # Amazon CloudWatch Logs
-• CloudWatch Logs can collect log from:
+• CloudWatch Logs can collect log from :
 
 • Elastic Beanstalk: collection of logs from application
 
