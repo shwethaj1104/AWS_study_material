@@ -53,7 +53,7 @@ Billing alarm is available only for us-east-1 -> Create alarm ->
 
 • Option for Detailed Monitoring ($$$) : metrics every 1 minute
 
-• EBS volumes: Disk Read/Writes
+• EBS volumes : Disk Read/Writes
 
 • S3 buckets: BucketSizeBytes, NumberOfObjects, AllRequests
 
