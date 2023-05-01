@@ -55,9 +55,9 @@ Billing alarm is available only for us-east-1 -> Create alarm ->
 
 • EBS volumes : Disk Read/Writes
 
-• S3 buckets: BucketSizeBytes, NumberOfObjects, AllRequests
+• S3 buckets : BucketSizeBytes, NumberOfObjects, AllRequests
 
-• Billing:Total Estimated Charge (only in us-east-1)
+• Billing : Total Estimated Charge (only in us-east-1)
 
 • Service Limits: how much you’ve been using a service API
 
