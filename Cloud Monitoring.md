@@ -97,6 +97,7 @@ What ever our application will be logging will be available here
 
 # Amazon EventBridge
 • Schedule: Cron jobs (scheduled scripts)
+
 • Event Pattern: Event rules to react to a service doing something, send notifications etc
 • Trigger/invoke Lambda functions, send SQS/SNS messages...
 ___________________________
