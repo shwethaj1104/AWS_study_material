@@ -107,6 +107,7 @@ ___________________________
 
 
 Select amazon event Bridge service -> Create rule -> Name -> Schedule -> Continue -> Give schedule pattern -> Next -> Select target(invoking lambda function/notig=fication for login on console/ notification on EC2 instance state chnage etc)
+
 ![image](https://user-images.githubusercontent.com/107784718/213383988-1d571f77-a6e2-4f21-b9e0-07604cd3c8a5.png)
 ![image](https://user-images.githubusercontent.com/107784718/213384069-e1a18ad9-6da0-453b-bb0c-467121745966.png)
 ![image](https://user-images.githubusercontent.com/107784718/213384259-6f446835-88ef-46c7-823e-1ddda049aed3.png)
