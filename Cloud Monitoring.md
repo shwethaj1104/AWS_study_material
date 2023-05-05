@@ -103,9 +103,6 @@ What ever our application will be logging will be available here
 • Trigger/invoke Lambda functions, send SQS/SNS messages...
 ___________________________
 
-
-
-
 Select amazon event Bridge service -> Create rule -> Name -> Schedule -> Continue -> Give schedule pattern -> Next -> Select target(invoking lambda function/notig=fication for login on console/ notification on EC2 instance state chnage etc)
 
 ![image](https://user-images.githubusercontent.com/107784718/213383988-1d571f77-a6e2-4f21-b9e0-07604cd3c8a5.png)
