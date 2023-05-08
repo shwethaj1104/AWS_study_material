@@ -121,6 +121,7 @@ Select amazon event Bridge service -> Create rule -> Name -> Schedule -> Continu
     • SDK
     
     • CLI
+    
 • AWS Services
 ______
 Select cloudTrial service-Event history -> what ever actions ahs been performed will be recorded in cloudTrial
