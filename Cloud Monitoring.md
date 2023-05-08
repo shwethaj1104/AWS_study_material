@@ -117,6 +117,7 @@ Select amazon event Bridge service -> Create rule -> Name -> Schedule -> Continu
 • Get an history of events / API calls made within your AWS Account by:
 
     • Console
+    
 • SDK
 • CLI
 • AWS Services
