@@ -119,6 +119,7 @@ Select amazon event Bridge service -> Create rule -> Name -> Schedule -> Continu
     • Console
     
     • SDK
+    
 • CLI
 • AWS Services
 ______
