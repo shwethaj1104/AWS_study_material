@@ -128,7 +128,8 @@ Select cloudTrial service-Event history -> what ever actions ahs been performed 
 ![image](https://user-images.githubusercontent.com/107784718/213385193-439fd716-097e-427d-bcfd-4da159b4fafd.png)
 
 # AWS X-Ray advantages
-• Troubleshooting performance (bottlenecks) • Understand dependencies in a microservice architecture • Pinpoint service issues • Review request behavior • Find errors and exceptions • Are we meeting time SLA? • Where I am throttled? • Identify users that are impacted
+• Troubleshooting performance (bottlenecks) 
+• Understand dependencies in a microservice architecture • Pinpoint service issues • Review request behavior • Find errors and exceptions • Are we meeting time SLA? • Where I am throttled? • Identify users that are impacted
 
 # Amazon CodeGuru
 • An ML-powered service for automated code reviews and application performance recomendation
