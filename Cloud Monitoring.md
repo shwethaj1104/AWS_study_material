@@ -131,6 +131,7 @@ Select cloudTrial service-Event history -> what ever actions ahs been performed 
 • Troubleshooting performance (bottlenecks) 
 
 • Understand dependencies in a microservice architecture 
+
 • Pinpoint service issues • Review request behavior • Find errors and exceptions • Are we meeting time SLA? • Where I am throttled? • Identify users that are impacted
 
 # Amazon CodeGuru
