@@ -136,7 +136,8 @@ Select cloudTrial service-Event history -> what ever actions ahs been performed 
 
 • Review request behavior 
 
-• Find errors and exceptions • Are we meeting time SLA? • Where I am throttled? • Identify users that are impacted
+• Find errors and exceptions 
+• Are we meeting time SLA? • Where I am throttled? • Identify users that are impacted
 
 # Amazon CodeGuru
 • An ML-powered service for automated code reviews and application performance recomendation
