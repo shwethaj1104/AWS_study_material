@@ -149,6 +149,7 @@ Select cloudTrial service-Event history -> what ever actions ahs been performed 
 
 # AWS Health Dashboard
 # AWS Service Health Dashboard
+
  The Service Health Dashboard displays the general status of all AWS services
 # AWS Personal Health Dashboard
 • AWS Personal Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you.
