@@ -101,7 +101,7 @@ What ever our application will be logging will be available here
 • Event Pattern: Event rules to react to a service doing something, send notifications etc
 
 • Trigger/invoke Lambda functions, send SQS/SNS messages...
-___________________________
+________________________________________________________________________________________________________
 
 Select amazon event Bridge service -> Create rule -> Name -> Schedule -> Continue -> Give schedule pattern -> Next -> Select target(invoking lambda function/notig=fication for login on console/ notification on EC2 instance state chnage etc)
 
