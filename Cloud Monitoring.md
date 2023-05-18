@@ -158,7 +158,7 @@ Select cloudTrial service-Event history -> what ever actions ahs been performed 
 
 • Personal Health Dashboard gives you a personalized view into the performance and availability of the AWS services underlying your AWS resources.
 ______________________________________________________________________________________________________________________________________________________
-Bell icon- event log-
+Bell icon -> event log-
 ![image](https://user-images.githubusercontent.com/107784718/213385739-ba81c250-1660-4573-9989-c6a00c856466.png)
 We can see the service health, personal account health etc
 ![image](https://user-images.githubusercontent.com/107784718/213386344-44c85bad-06ee-4f73-a724-3f1ed74ee8d4.png)
