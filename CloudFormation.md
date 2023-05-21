@@ -3,6 +3,7 @@ Cloud formation- yaml format
 • CloudFormation is a declarative way of outlining your AWS Infrastructure, for any resources (most of them are supported).
 
 • For example, within a CloudFormation template, you say:
+
 • I want a security group
 • I want two EC2 instances using this security group
 • I want an S3 bucket
