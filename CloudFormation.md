@@ -4,7 +4,7 @@ Cloud formation- yaml format
 
 • For example, within a CloudFormation template, you say:
 
-  • I want a security group
+            • I want a security group
   
 • I want two EC2 instances using this security group
 • I want an S3 bucket
