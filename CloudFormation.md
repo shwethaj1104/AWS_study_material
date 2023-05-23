@@ -6,7 +6,7 @@ Cloud formation- yaml format
 
             • I want a security group
   
-• I want two EC2 instances using this security group
+            • I want two EC2 instances using this security group
 • I want an S3 bucket
 • I want a load balancer (ELB) in front of these machines
 
