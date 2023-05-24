@@ -10,7 +10,7 @@ Cloud formation- yaml format
             
             • I want an S3 bucket
             
-• I want a load balancer (ELB) in front of these machines
+            • I want a load balancer (ELB) in front of these machines
 
 • Then CloudFormation creates those for you, in the right order, with the
 exact configuration that you specify.
