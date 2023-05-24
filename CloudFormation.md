@@ -12,8 +12,7 @@ Cloud formation- yaml format
             
             • I want a load balancer (ELB) in front of these machines
 
-• Then CloudFormation creates those for you, in the right order, with the
-exact configuration that you specify.
+• Then CloudFormation creates those for you, in the right order, with theexact configuration that you specify.
 
 No resources are manually created, which is excellent for control.
 ____
