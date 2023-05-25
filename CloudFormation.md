@@ -15,7 +15,7 @@ Cloud formation- yaml format
 • Then CloudFormation creates those for you, in the right order, with the exact configuration that you specify.
 
 No resources are manually created, which is excellent for control.
-____
+_________________________________________________________________________________________________________________________________________________________________________
 Search for cloudformation service in AWS ->
 ![image](https://user-images.githubusercontent.com/107784718/212883333-2ed7d72c-f982-43c6-a4c4-ca2362c9324c.png)
 
