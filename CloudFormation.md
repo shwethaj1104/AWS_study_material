@@ -27,6 +27,6 @@ stack name- Next
 Tags- Name- Next
 Review the cost and other details- Create Stack
 
-You can update the stack if you want after creating it- just click on Update btn
+You can update the stack if you want after creating it- just click on Update button
 
 what ever you update will be available in change set preview where you can verify your chnages before updating
