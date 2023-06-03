@@ -25,7 +25,7 @@ Create stack ->
 Upload a file (which should contain what stacks you need to add -> example -> EC2, SSH security groups etc) which containes code in yaml format to create EC2 instance for example -> Next
 stack name -> Next
 Tags -> Name -> Next
-Review the cost and other details- Create Stack
+Review the cost and other details -> Create Stack
 
 You can update the stack if you want after creating it- just click on Update button
 
