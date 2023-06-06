@@ -1,4 +1,4 @@
-# CodeDeploy
+# Code Deploy
 deploy our application automatically
 • Works with EC2 Instances
 • Works with On-Premises Servers
