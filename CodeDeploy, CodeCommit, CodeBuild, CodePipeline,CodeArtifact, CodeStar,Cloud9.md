@@ -1,6 +1,6 @@
 # Code Deploy
 
-deploy our application automatically
+Deploy our application automatically
 • Works with EC2 Instances
 • Works with On-Premises Servers
 • Hybrid service
