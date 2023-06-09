@@ -1,6 +1,6 @@
 # Code Deploy
 
-Deploy our application automatically
+Deploy application automatically
 
     • Works with EC2 Instances
 
