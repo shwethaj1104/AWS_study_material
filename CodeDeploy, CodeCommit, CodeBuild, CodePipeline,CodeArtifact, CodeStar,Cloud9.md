@@ -13,6 +13,7 @@ ________________
 • Before pushing the application code to servers, it needs to be stored somewhere
 
 • Developers usually store code in Git
+
 • A famous public offering is GitHub, AWS’s competing product is CodeCommit
 ______________
 # CodeBuild
