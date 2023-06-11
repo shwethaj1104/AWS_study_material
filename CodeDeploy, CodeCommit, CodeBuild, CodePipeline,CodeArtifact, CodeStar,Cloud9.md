@@ -48,6 +48,7 @@ ________________________________________________________________________________
 # CodeStar
 
 • Unified UI to easily manage software development activities in one place
+
 • “Quick way” to get started to correctly set-up CodeCommit, CodePipeline, CodeBuild, CodeDeploy, Elastic Beanstalk, EC2, etc...
 • Can edit the code ”in-the-cloud” using AWS Cloud9
 
