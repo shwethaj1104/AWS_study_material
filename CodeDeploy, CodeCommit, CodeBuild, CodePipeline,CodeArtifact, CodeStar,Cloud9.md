@@ -25,7 +25,7 @@ ________________________________________________________________________________
 Orchestrate the different steps to have the code automatically pushed to production
 • Code => Build => Test => Provision => Deploy
 • Basis for CICD (Continuous Integration & Continuous Delivery)
-______________
+_____________________________________________________________________________________________________________________________________________________________________
 # CodeArtifact
 
 • Software packages depend on each other to be built (also called code dependencies), and new ones are created
