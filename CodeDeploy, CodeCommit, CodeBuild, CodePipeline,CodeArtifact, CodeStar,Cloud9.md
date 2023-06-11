@@ -37,6 +37,7 @@ ________________________________________________________________________________
 • Traditionally you need to setup your own artifact management system
 
 • CodeArtifact is a secure, scalable, and cost-effective artifact management for software development
+
 • Works with common dependency management tools such as Maven, Gradle, npm, yarn, twine, pip, and NuGet
 • Developers and CodeBuild can retrive it from CodeArtifact
 
