@@ -54,6 +54,7 @@ project name-project repository:codeCommit-EC2 configuration:::instance type:t2 
 project will be created- with AWS IAM, Elastic Beanstalk, CodePipeline, CodeCommit,CodeBuild,CloudFormation and Amazon S3 storage.
 _________________
 # Cloud9
+
 AWS Cloud9 is a cloud IDE (Integrated Development Environment) for writing, running and debugging code
 
 after creating codestar project- go to craete Could9- environment name-create environment
