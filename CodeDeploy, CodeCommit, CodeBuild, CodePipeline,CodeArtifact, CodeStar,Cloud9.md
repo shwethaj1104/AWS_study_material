@@ -21,6 +21,7 @@ ______________
 Compiles source code, run tests, and produces packages that are ready to be deployed (by CodeDeploy for example)
 _____________
 # CodePipeline
+
 Orchestrate the different steps to have the code automatically pushed to production
 • Code => Build => Test => Provision => Deploy
 • Basis for CICD (Continuous Integration & Continuous Delivery)
