@@ -66,7 +66,7 @@ ________________________________________________________________________________
 
 AWS Cloud9 is a cloud IDE (Integrated Development Environment) for writing, running and debugging code
 
-after creating codestar project- go to craete Could9- environment name-create environment
+After creating codestar project- go to craete Could9- environment name-create environment
 
 once cloud9 env is craeted-
 click on Open IDE-we will get cloud9 which will be running on web browser we can edit code on browser
