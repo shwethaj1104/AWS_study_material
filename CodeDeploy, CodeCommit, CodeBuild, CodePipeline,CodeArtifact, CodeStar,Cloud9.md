@@ -38,7 +38,7 @@ ________________________________________________________________________________
 We can setup Individually too, but we have CodeStar where we can setup all of them at once,
 ![image](https://user-images.githubusercontent.com/107784718/213138269-844923c2-f110-4e0b-b78c-13a8dcb201d2.png)
 
-____________
+_____________________________________________________________________________________________________________________________________________________________________
 # CodeStar
 
 • Unified UI to easily manage software development activities in one place
