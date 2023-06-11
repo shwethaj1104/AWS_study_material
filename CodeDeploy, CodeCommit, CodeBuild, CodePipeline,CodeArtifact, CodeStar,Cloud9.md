@@ -15,7 +15,7 @@ ________________________________________________________________________________
 • Developers usually store code in Git
 
 • A famous public offering is GitHub, AWS’s competing product is CodeCommit
-______________
+_____________________________________________________________________________________________________________________________________________________________________
 # CodeBuild
 
 Compiles source code, run tests, and produces packages that are ready to be deployed (by CodeDeploy for example)
