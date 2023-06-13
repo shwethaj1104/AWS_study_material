@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 • Can edit the code ”in-the-cloud” using AWS Cloud9
 
-Open CodeStar service- create project-select the application type(eample python flask-AWS Elastic Beanstalk)- Next
+Open CodeStar service - create project-select the application type(eample python flask-AWS Elastic Beanstalk)- Next
 ![image](https://user-images.githubusercontent.com/107784718/213131078-a3f70a05-bc12-4dc4-8910-85c2353a0a0d.png)
 
 ![image](https://user-images.githubusercontent.com/107784718/213131310-e163fe52-1410-4b45-9750-7679569aed18.png)
