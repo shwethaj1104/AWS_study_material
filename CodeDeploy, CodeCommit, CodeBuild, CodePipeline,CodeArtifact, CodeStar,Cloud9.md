@@ -60,7 +60,7 @@ Open CodeStar service - create project-select the application type(eample python
 
 project name -> project repository : codeCommit -> EC2 configuration ::: instance type : t2 micro -> select subnet -> select key pair -> Next
 
-project will be created - with AWS IAM, Elastic Beanstalk, CodePipeline, CodeCommit,CodeBuild,CloudFormation and Amazon S3 storage.
+project will be created -> with AWS IAM, Elastic Beanstalk, CodePipeline, CodeCommit,CodeBuild,CloudFormation and Amazon S3 storage.
 _____________________________________________________________________________________________________________________________________________________________________
 # Cloud9
 
