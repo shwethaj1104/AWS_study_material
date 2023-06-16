@@ -68,7 +68,7 @@ AWS Cloud9 is a cloud IDE (Integrated Development Environment) for writing, runn
 
 After creating codestar project- go to craete Could9- environment name-create environment
 
-Once cloud9 env is craeted -
+Once cloud9 env is craeted ->
 click on Open IDE-we will get cloud9 which will be running on web browser we can edit code on browser
 to commit code -> Edit the code- Click on left corner "git" in cloud9 IDE-on changed file click + -> enter user message- ctrl enter(file has been commited now)
 to push code to git-> on cloud9 terminal- go to root directory of project- git push
