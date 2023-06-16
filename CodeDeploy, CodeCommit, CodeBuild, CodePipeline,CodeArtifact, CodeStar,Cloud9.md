@@ -70,7 +70,7 @@ After creating codestar project- go to craete Could9- environment name-create en
 
 Once cloud9 env is created ->
 
-click on Open IDE-we will get cloud9 which will be running on web browser we can edit code on browser
+Click on Open IDE-we will get cloud9 which will be running on web browser we can edit code on browser
 
 to commit code -> Edit the code- Click on left corner "git" in cloud9 IDE-on changed file click + -> enter user message- ctrl enter(file has been commited now)
 to push code to git-> on cloud9 terminal- go to root directory of project- git push
