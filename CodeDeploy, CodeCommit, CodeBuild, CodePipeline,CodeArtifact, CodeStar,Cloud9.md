@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 Orchestrate the different steps to have the code automatically pushed to production
 
-• Code -> Build => Test => Provision => Deploy
+• Code -> Build -> Test -> Provision -> Deploy
 
 • Basis for CICD (Continuous Integration & Continuous Delivery)
 _____________________________________________________________________________________________________________________________________________________________________
