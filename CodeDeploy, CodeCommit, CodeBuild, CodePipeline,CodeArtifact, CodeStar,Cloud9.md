@@ -73,6 +73,6 @@ Once cloud9 env is created ->
 Click on Open IDE -> We will get cloud9 which will be running on web browser we can edit code on browser
 
 To commit code -> Edit the code -> Click on left corner "git" in cloud9 IDE-on changed file click + -> Enter user message -> ctrl Enter(file has been commited now)
-To push code to git -> on cloud9 terminal- go to root directory of project- git push
+To push code to git -> on cloud9 terminal - go to root directory of project- git push
 
 Once new changes are pushed to codcommit- changes will be automatically deployed! since the pipeline in codeStar will be automatically triggered whne there is changes!
