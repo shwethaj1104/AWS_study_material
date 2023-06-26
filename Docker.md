@@ -15,7 +15,7 @@
         
 • Scale containers up and down very quickly (seconds).
 
-ways to luanch docker on AWS-
+ways to luanch docker on AWS -
 ______
 # ECS-Elastic Container Service
 
