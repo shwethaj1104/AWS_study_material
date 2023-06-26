@@ -13,7 +13,7 @@
         • Easier to maintain and deploy 
         • Works with any language, any OS, any technology 
         
-• Scale containers up and down very quickly (seconds)
+• Scale containers up and down very quickly (seconds).
 
 ways to luanch docker on AWS-
 ______
