@@ -2,7 +2,7 @@
 
 • Docker is a software development platform to deploy apps.
 
-• Apps are packaged in containers that can be run on any OS
+• Apps are packaged in containers that can be run on any OS.
 
 • Apps run the same, regardless of where they’re run -
 
