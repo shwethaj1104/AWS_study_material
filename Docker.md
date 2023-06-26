@@ -20,6 +20,7 @@ ______
 # ECS-Elastic Container Service
 
 • Launch Docker containers on AWS
+
 • You must provision & maintain the infrastructure (the EC2 instances)
 ___________
 # Fargate 
