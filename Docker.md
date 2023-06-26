@@ -22,7 +22,7 @@ ________________________________________________________________________________
 • Launch Docker containers on AWS.
 
 • You must provision & maintain the infrastructure (the EC2 instances).
-___________
+______________________
 # Fargate 
 
 • Launch Docker containers on AWS
