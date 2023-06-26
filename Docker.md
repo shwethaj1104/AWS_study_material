@@ -19,7 +19,7 @@ Ways to luanch docker on AWS ->
 _____________________________________________________________________________________________________________________________________________________________________________
 # ECS-Elastic Container Service
 
-• Launch Docker containers on AWS
+• Launch Docker containers on AWS.
 
 • You must provision & maintain the infrastructure (the EC2 instances)
 ___________
