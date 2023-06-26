@@ -1,6 +1,6 @@
 # What is Docker?
 
-• Docker is a software development platform to deploy apps 
+• Docker is a software development platform to deploy apps.
 
 • Apps are packaged in containers that can be run on any OS
 
