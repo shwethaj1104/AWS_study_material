@@ -4,7 +4,7 @@
 
 • Apps are packaged in containers that can be run on any OS.
 
-• Apps run the same, regardless of where they’re run -
+• Apps run the same, regardless of where they’re run ->
 
         • Any machine 
         • No compatibility issues 
