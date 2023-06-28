@@ -28,6 +28,7 @@ ________________________________________________________________________________
 • Launch Docker containers on AWS
 
 • You do not provision the infrastructure (no EC2 instances to manage) – simpler!
+
 • Serverless offering (Serverless does not mean there are no servers... it means you just don’t manage / provision / see them)
 • AWS just runs containers for you based on the CPU / RAM you need
 ___________
