@@ -32,7 +32,7 @@ ________________________________________________________________________________
 • Serverless offering (Serverless does not mean there are no servers... it means you just don’t manage / provision / see them)
 
 • AWS just runs containers for you based on the CPU / RAM you need
-___________
+______________________
 # ECR - Elastic Container Registry 
 
 • Private Docker Registry on AWS
