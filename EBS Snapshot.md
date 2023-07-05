@@ -1,4 +1,4 @@
-EBS Snapshots
+# EBS Snapshots
 
 • Make a backup (snapshot) of your EBS volume at a point in time
 • Not necessary to detach volume to do snapshot, but recommended
