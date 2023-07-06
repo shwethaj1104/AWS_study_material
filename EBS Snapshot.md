@@ -4,7 +4,6 @@
 • Not necessary to detach volume to do snapshot, but recommended
 • Can copy snapshots across AZ or Region
 
-
 How to make snapshots?
 
 Go to volumes- select any volume- actions- create snapshot- add description- click create snapshots
