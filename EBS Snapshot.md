@@ -8,7 +8,7 @@
 
 How to make Snapshots?
 
-Go to volumes --> select any volume- actions- create snapshot- add description- click create snapshots
+Go to volumes -> Select any volume- actions- create snapshot- add description- click create snapshots
 ![image](https://user-images.githubusercontent.com/107784718/212531564-e7d068a2-c6eb-449e-b160-8fe44bf407a1.png)
 
 ![image](https://user-images.githubusercontent.com/107784718/212531619-fa4a51b6-6174-4923-b76a-db83b7134684.png)
