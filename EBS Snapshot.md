@@ -6,7 +6,7 @@
   
     • Can copy snapshots across AZ or Region
 
-How to make snapshots?
+How to make Snapshots?
 
 Go to volumes- select any volume- actions- create snapshot- add description- click create snapshots
 ![image](https://user-images.githubusercontent.com/107784718/212531564-e7d068a2-c6eb-449e-b160-8fe44bf407a1.png)
