@@ -20,7 +20,7 @@ Right click on snapshot -> Copy snapshot -> Select the region
 We can re create volume from the snapshot too
 Select snapshot -> Action -> Create volume from snapshot -> Give details and any AZ -> Create volume
 
-we also have recycle bin to avoid accsidental deletions of snapshots
+We also have recycle bin to avoid accsidental deletions of snapshots
 
 ![image](https://user-images.githubusercontent.com/107784718/212531815-071062a5-c3bb-4ccf-a5cb-d42aadc81564.png)
 
