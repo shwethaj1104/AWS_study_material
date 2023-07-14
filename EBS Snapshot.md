@@ -25,7 +25,7 @@ We also have recycle bin to avoid accsidental deletions of snapshots
 
 ![image](https://user-images.githubusercontent.com/107784718/212531815-071062a5-c3bb-4ccf-a5cb-d42aadc81564.png)
 
-we can create retention rules to recover the snapshots after x number fo days after deletign them
+We can create retention rules to recover the snapshots after x number fo days after deletign them
 
 ![image](https://user-images.githubusercontent.com/107784718/212531833-ea0efd98-f21d-473e-9a4f-81329a648714.png)
 
