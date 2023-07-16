@@ -5,6 +5,7 @@ EBS Volume
 • It allows your instances to persist data, even after their termination
 
 • They can only be mounted to one instance at a time (at the CCP level)
+
 • They are bound to a specific availability zone
 
 • Controls the EBS behaviour when an EC2 instance terminates
