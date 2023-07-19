@@ -11,6 +11,7 @@ EBS Volume
 • Controls the EBS behaviour when an EC2 instance terminates
 
 • By default, the root EBS volume is deleted (attribute enabled)
+
 • By default, any other attached EBS volume is not deleted (attribute disabled)
 
 select EC2 instance - storage-you will be able to see the block storage for that instance
