@@ -8,11 +8,11 @@ EBS Volume
 
     • They are bound to a specific availability zone
 
-• Controls the EBS behaviour when an EC2 instance terminates
+    • Controls the EBS behaviour when an EC2 instance terminates
 
-• By default, the root EBS volume is deleted (attribute enabled)
+    • By default, the root EBS volume is deleted (attribute enabled)
 
-• By default, any other attached EBS volume is not deleted (attribute disabled)
+    • By default, any other attached EBS volume is not deleted (attribute disabled)
 
 select EC2 instance - storage-you will be able to see the block storage for that instance
 ![image](https://user-images.githubusercontent.com/107784718/212531076-1b38dbd0-d46e-42cb-becd-b743eaba7e1e.png)
