@@ -17,8 +17,7 @@ EBS Volume
 Select EC2 instance -> Storage -> You will be able to see the block storage for that instance
 ![image](https://user-images.githubusercontent.com/107784718/212531076-1b38dbd0-d46e-42cb-becd-b743eaba7e1e.png)
 
-
-To craete new volume:
+# To craete new volume :
 Elastic block store- volumes-create volume -give type- size-availability zone must be same as EC2 instance zone to attach for that isntance- create vlume
 ![image](https://user-images.githubusercontent.com/107784718/212531139-d0d3e894-8a1f-4409-bb58-7ded1ca9cdcd.png)
 
