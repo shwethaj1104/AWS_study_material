@@ -21,7 +21,7 @@ Select EC2 instance -> Storage -> You will be able to see the block storage for 
 Elastic block store -> Volumes -> Create volume -> Give type -> Size -> Availability zone must be same as EC2 instance zone to attach for that isntance -> Create volume
 ![image](https://user-images.githubusercontent.com/107784718/212531139-d0d3e894-8a1f-4409-bb58-7ded1ca9cdcd.png)
 
-To attach volume to EC2 instance:
+To attach volume to EC2 instance :
 Select craete volume- Actions- attach volume
 
 ![image](https://user-images.githubusercontent.com/107784718/212531229-88a8deab-ce2b-4e6b-9d74-02eef786d78f.png)
