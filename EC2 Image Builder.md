@@ -4,7 +4,7 @@
 
     • Automate the creation(EC2 instance and/or IAM etc), maintain, validate and test EC2 AMIs
 
-• Can be run on a schedule (weekly, whenever packages are updated, etc...)
+    • Can be run on a schedule (weekly, whenever packages are updated, etc...)
 _______________________________________________________________________________________________________________________
 EC2 image builder service- create image pipeline
 ![image](https://user-images.githubusercontent.com/107784718/212533280-adbea58f-4369-45e9-aad8-12d96b907343.png)
