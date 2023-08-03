@@ -27,7 +27,7 @@ Select Create Volume -> Actions -> Attach Volume
 
 ![image](https://user-images.githubusercontent.com/107784718/212531229-88a8deab-ce2b-4e6b-9d74-02eef786d78f.png)
 ![image](https://user-images.githubusercontent.com/107784718/212531242-e8b750c2-f0ad-4e05-b706-745a6de2d330.png)
-click on attach volume->
+click on attach volume ->
 
 Now if you check in your instance you will be having 2 instances attached :
 ![image](https://user-images.githubusercontent.com/107784718/212531279-591e2c00-2a89-489c-8a8e-135f153df9db.png)
