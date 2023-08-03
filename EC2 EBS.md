@@ -23,7 +23,7 @@ Elastic block store -> Volumes -> Create volume -> Give type -> Size -> Availabi
 ![image](https://user-images.githubusercontent.com/107784718/212531139-d0d3e894-8a1f-4409-bb58-7ded1ca9cdcd.png)
 
 To attach volume to EC2 instance :
-Select create volume -> Actions -> attach volume
+Select create volume -> Actions -> Attach volume
 
 ![image](https://user-images.githubusercontent.com/107784718/212531229-88a8deab-ce2b-4e6b-9d74-02eef786d78f.png)
 ![image](https://user-images.githubusercontent.com/107784718/212531242-e8b750c2-f0ad-4e05-b706-745a6de2d330.png)
