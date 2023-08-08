@@ -8,7 +8,7 @@
 _______________________________________________________________________________________________________________________
 # EC2 image builder service
 
-create image pipeline
+Create image pipeline
 ![image](https://user-images.githubusercontent.com/107784718/212533280-adbea58f-4369-45e9-aad8-12d96b907343.png)
 
 pipeline name - give time-Choose recipe
