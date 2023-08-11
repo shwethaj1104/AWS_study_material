@@ -11,7 +11,7 @@ ________________________________________________________________________________
 Create image pipeline
 ![image](https://user-images.githubusercontent.com/107784718/212533280-adbea58f-4369-45e9-aad8-12d96b907343.png)
 
-Pipeline name -> give time ->Choose recipe
+Pipeline name -> give time -> Choose recipe
 An image recipe is a document that defines the components to be applied to the base images to create the desired configuration for the output image. After a recipe has been created, it cannot be modified. A new version must be created in order to change components.
 
 ![image](https://user-images.githubusercontent.com/107784718/212533413-93dbb0b1-39cf-4929-a83a-83b6297a9f9b.png)
