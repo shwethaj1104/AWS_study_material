@@ -22,7 +22,7 @@ AMI -> Name -> Version -> Amazon linux -> Image name (amazon linux 2 x86) -> Add
 aws-cli-version-2-linuxamazon-corretto-11-headless)
 
 Next -> 
-Infrastucture configurations-  create a new infra configs-name-select IAM role if exist else create new IAM role 
+Infrastucture configurations -> create a new infra configs-name-select IAM role if exist else create new IAM role 
 _________________________
 create new IAM role- name
 add policies- EC2InstanceProfileForImageBuilder,EC2InstanceProfileForImageBuilderECRContainerBuilds,AmazonSSMManageInstanceCore
