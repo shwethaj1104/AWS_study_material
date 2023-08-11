@@ -16,7 +16,7 @@ An image recipe is a document that defines the components to be applied to the b
 
 ![image](https://user-images.githubusercontent.com/107784718/212533413-93dbb0b1-39cf-4929-a83a-83b6297a9f9b.png)
 
-AMI -> Name -> Version -> Amazon linux -> image name(amazon linux 2 x86)-add components
+AMI -> Name -> Version -> Amazon linux -> Image name (amazon linux 2 x86)-add components
 ![image](https://user-images.githubusercontent.com/107784718/212533499-4360ec2d-afd5-45bf-bc83-e4760b79f0fa.png)
 (for java-amazon-corretto-11-headless
 aws-cli-version-2-linuxamazon-corretto-11-headless)
