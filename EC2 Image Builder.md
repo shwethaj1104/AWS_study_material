@@ -29,5 +29,5 @@ Add Policies -> EC2InstanceProfileForImageBuilder,EC2InstanceProfileForImageBuil
 ____________________________
 Distributions settings -> Either default / (New one -> and assign to various regions) -> Create pipeline
 _____________________________
-Once it is craeted -> Tested- distributes
+Once it is craeted -> Tested -> distributes
 launch an instance and connect via available AMI- select your AMI- and connect to the instance- you now have your instance up and running
