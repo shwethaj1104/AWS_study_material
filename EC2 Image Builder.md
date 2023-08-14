@@ -25,7 +25,7 @@ Next ->
 Infrastucture configurations -> Create a new infra configs -> Name -> Select IAM role if exist else create new IAM role 
 _________________________
 Create new IAM role -> Name
-Add Policies- EC2InstanceProfileForImageBuilder,EC2InstanceProfileForImageBuilderECRContainerBuilds,AmazonSSMManageInstanceCore
+Add Policies -> EC2InstanceProfileForImageBuilder,EC2InstanceProfileForImageBuilderECRContainerBuilds,AmazonSSMManageInstanceCore
 ____________________________
 Distributions settings- either default/ (new one- and assign to various regions)- create pipeline
 _____________________________
