@@ -27,7 +27,7 @@ _________________________
 Create new IAM role -> Name
 Add Policies -> EC2InstanceProfileForImageBuilder,EC2InstanceProfileForImageBuilderECRContainerBuilds,AmazonSSMManageInstanceCore
 ____________________________
-Distributions settings -> Either default / (New one -> and assign to various regions)- create pipeline
+Distributions settings -> Either default / (New one -> and assign to various regions) -> create pipeline
 _____________________________
 once it is craeted- tested- distributes
 launch an instance and connect via available AMI- select your AMI- and connect to the instance- you now have your instance up and running
