@@ -24,7 +24,7 @@ aws-cli-version-2-linuxamazon-corretto-11-headless)
 Next -> 
 Infrastucture configurations -> Create a new infra configs -> Name -> Select IAM role if exist else create new IAM role 
 _________________________
-Create new IAM role- name
+Create new IAM role -> name
 add policies- EC2InstanceProfileForImageBuilder,EC2InstanceProfileForImageBuilderECRContainerBuilds,AmazonSSMManageInstanceCore
 ____________________________
 Distributions settings- either default/ (new one- and assign to various regions)- create pipeline
