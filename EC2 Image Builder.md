@@ -30,4 +30,4 @@ ____________________________
 Distributions settings -> Either default / (New one -> and assign to various regions) -> Create pipeline
 _____________________________
 Once it is craeted -> Tested -> Distributes
-Launch an instance and connect via available AMI -> select your AMI- and connect to the instance- you now have your instance up and running
+Launch an instance and connect via available AMI -> Select your AMI -> and connect to the instance- you now have your instance up and running
