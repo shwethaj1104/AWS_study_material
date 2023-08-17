@@ -1,4 +1,4 @@
-Go to your EC2 instance - select - Click on Connect- Connect
+Go to your EC2 instance -> select - Click on Connect- Connect
 
 ![image](https://user-images.githubusercontent.com/107784718/212468045-97f12fb0-0616-40fe-bbbc-e2f540207e53.png)
 
